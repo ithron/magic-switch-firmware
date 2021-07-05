@@ -1,0 +1,6 @@
+[submodule "dependencies/esp-iot-solution"]
+	path = dependencies/esp-iot-solution
+	url = https://github.com/espressif/esp-iot-solution.git
+[submodule "dependencies/esp-homekit-sdk"]
+	path = dependencies/esp-homekit-sdk
+	url = https://github.com/espressif/esp-homekit-sdk.git

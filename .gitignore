@@ -1,0 +1,6 @@
+build
+.vscode
+*.old
+sdkconfig
+.DS_Store
+Makefile
