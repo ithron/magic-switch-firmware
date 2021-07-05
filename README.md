@@ -1,2 +1,2 @@
-# Magick Light Switch
+# Magic Light Switch
 Just magic!
